@@ -10,7 +10,7 @@ Classic Snake game built with Python's turtle module. Features multiple fruit ty
 
 ## Screenshot
 
-![Game Screenshot](turtle-snake-game/assets/Screenshot.png)
+![Game Screenshot](assets/Screenshot.png)
 
 
 ## Requirements
