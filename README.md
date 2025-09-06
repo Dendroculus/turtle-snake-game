@@ -8,7 +8,7 @@ Classic Snake game built with Python's turtle module. Features multiple fruit ty
 - Eat fruits to grow your snake and increase your score.  
 - Avoid hitting the walls or your own tail.
 
-## Screenshot
+## Game Preview
 
 ![Game Screenshot](assets/Screenshot.png)
 
