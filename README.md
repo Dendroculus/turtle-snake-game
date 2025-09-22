@@ -19,6 +19,12 @@ Classic Snake game built with Python's turtle module. Features multiple fruit ty
 
 ![Game Screenshot](assets/Screenshot.png)
 
+## ✨ Features
+- Multiple fruit types with different point values  
+- Dynamic scoreboard that updates in real time  
+- Sound effects for eating and collisions  
+- Smooth controls using WASD  
+- Game over screen 
 
 ## Requirements
 
