@@ -1,3 +1,5 @@
+[EN](https://github.com/Dendroculus/turtle-snake-game/blob/main/README.md) | 中文
+
 # 贪吃蛇游戏
 
 经典贪吃蛇游戏，使用 Python 的 `turtle` 模块开发。游戏特色包括多种水果类型、音效以及动态记分板。
