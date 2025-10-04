@@ -1,3 +1,5 @@
+EN | [中文](https://github.com/Dendroculus/turtle-snake-game/blob/main/READMECN.md)
+
 # Snake Game
 
 Classic Snake game built with Python's turtle module. Features multiple fruit types, sound effects, and a dynamic scoreboard.
